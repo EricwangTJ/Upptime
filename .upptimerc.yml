@@ -21,6 +21,8 @@ sites:
     url: https://www.momoshop.com.tw/main/Main.jsp
   - name: Yahoo
     url: https://tw.yahoo.com/
+  - name: Wrong
+    url: https://1231234eqwe/
  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
