@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 178,
-    "timeDay": 178,
-    "timeWeek": 178,
-    "timeMonth": 178,
-    "timeYear": 178,
+    "time": 183,
+    "timeDay": 183,
+    "timeWeek": 183,
+    "timeMonth": 183,
+    "timeYear": 183,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1474,
-    "timeDay": 1474,
-    "timeWeek": 1474,
-    "timeMonth": 1474,
-    "timeYear": 1474,
+    "time": 1446,
+    "timeDay": 1446,
+    "timeWeek": 1446,
+    "timeMonth": 1446,
+    "timeYear": 1446,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1366,
-    "timeDay": 1366,
-    "timeWeek": 1366,
-    "timeMonth": 1366,
-    "timeYear": 1366,
+    "time": 1381,
+    "timeDay": 1381,
+    "timeWeek": 1381,
+    "timeMonth": 1381,
+    "timeYear": 1381,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 13128,
-    "timeDay": 13128,
-    "timeWeek": 13128,
-    "timeMonth": 13128,
-    "timeYear": 13128,
+    "time": 12258,
+    "timeDay": 12258,
+    "timeWeek": 12258,
+    "timeMonth": 12258,
+    "timeYear": 12258,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 583,
-    "timeDay": 583,
-    "timeWeek": 583,
-    "timeMonth": 583,
-    "timeYear": 583,
+    "time": 563,
+    "timeDay": 563,
+    "timeWeek": 563,
+    "timeMonth": 563,
+    "timeYear": 563,
     "dailyMinutesDown": {}
   },
   {
@@ -95,18 +95,16 @@
     "icon": "https://favicons.githubusercontent.com/1231234eqwe",
     "slug": "wrong",
     "status": "down",
-    "uptime": "75.73%",
-    "uptimeDay": "75.73%",
-    "uptimeWeek": "75.73%",
-    "uptimeMonth": "75.73%",
-    "uptimeYear": "75.73%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-06-07": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
